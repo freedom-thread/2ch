@@ -37,7 +37,7 @@ OutlineVPN построен активистами Google на базе shadowso
 
 - [b]Исследования[/b]
 1. Исследование блокировок GFW: https://gfw.report/blog/gfw_shadowsocks/
-2. ИсследованиеобновленияИсследование производительности проксей, VPN и обфускаторов: https://habr.com/ru/post/479146/
+2. Исследование производительности проксей, VPN и обфускаторов: https://habr.com/ru/post/479146/
 [b]TL;DR:[/b] Shadowsocks > WireGuard > SSH > tunsafe > OutlineVPN > StrongSwan > OpenVPN (UDP) > OpenVPN (TCP) > всё остальное
 
 - [b]Гайды:[/b]
