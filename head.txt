@@ -8,7 +8,7 @@
 • [b]shadowsocks-rust[/b] (официальная версия, гайда нет, но конфиг схож с shadowsocks-libev).
 
 - [b]Почему именно Shadowsocks?[/b]
-[b]0. Во время событий в Беларуси успешно работали Shadowsocks с плагинами simple-obfs, v2ray-http, а так же cloak (v1.x.x), чего не скажешь про множество других VPN сервисов (как платных, так и бесплатных).[/b]
+0. [i]Во время событий в Беларуси успешно работали Shadowsocks с плагинами simple-obfs, v2ray-http, а так же cloak (v1.x.x), чего не скажешь про множество других VPN сервисов (как платных, так и бесплатных).[/i]
 Поправка: во время блокировок также работал Psiphon, Tachyon VPN и X-VPN.
 1. Быстрее OpenVPN (даже без обфускации и через UDP) и немного быстрее WireGuard.
 2. С обфускацией которая ставится в 5 ПРОСТЫХ ШАГОВ К СВОБОДЕ™ дает за щеку всем.
@@ -31,21 +31,22 @@
 5. Нормально настроенный Shadowsocks умеет в UDP - торренты будут работать нормально.
 6. Даже с обфускаторами и mode: "tcp_only" все DNS запросы идут через туннель, DNSCrypt и прочие утилиты не нужны.
 
-[b]Для самых домохозяистых домохозяек уровня /b/ рекомендуется использовать OutlineVPN:[/b] https://getoutline.org
+[b][i]Для самых домохозяистых домохозяек уровня /b/ рекомендуется использовать[/i] OutlineVPN:[/b] https://getoutline.org
 OutlineVPN построен активистами Google на базе shadowsocks-libev и максимально адаптирован для быстрой и простой установки.
 [b]NB![/b] Голый shadowsocks, как и Outline, теперь детектится даже в Wireshark, что в принципе было давно ожидаемо.
 
-Исследование блокировок GFW: https://gfw.report/blog/gfw_shadowsocks/
-Исследование производительности проксей, VPN и обфускаторов: https://habr.com/ru/post/479146/
+- [b]Исследования[/b]
+1. Исследование блокировок GFW: https://gfw.report/blog/gfw_shadowsocks/
+2. ИсследованиеобновленияИсследование производительности проксей, VPN и обфускаторов: https://habr.com/ru/post/479146/
 [b]TL;DR:[/b] Shadowsocks > WireGuard > SSH > tunsafe > OutlineVPN > StrongSwan > OpenVPN (UDP) > OpenVPN (TCP) > всё остальное
 
 - [b]Гайды:[/b]
-[b]1. Основной гайд по shadowsocks-go:[/b] https://medium.com/p/beda4352b52f
-[b]2. Обфускаторы[/b] https://medium.com/p/1d173b3d5513
+1. Основной гайд [b]по shadowsocks-go[/b]: https://medium.com/p/beda4352b52f
+2. Обфускаторы https://medium.com/p/1d173b3d5513
 Ещё больше разных гайдов для тех, кому не хватило: https://justpaste.it/80zo5
 
 - [b]Оптимизации и пердолинг:[/b]
 1. Shadowsocks over Cloudflare: http://telegra.ph/shadowsocks-over-cloudflare-05-17
 2. tcp-bbr, доступ только через CF, наеб даблпинга: https://medium.com/p/b8938a61d38/
 
-Эта шапка для переката: https://github.com/freedom-thread/2ch/
+Эта шапка для переката: https://github.com/freedom-thread/2ch/blob/main/head.txt
