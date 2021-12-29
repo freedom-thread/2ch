@@ -8,7 +8,7 @@
 • [b]shadowsocks-rust[/b] (официальная версия, гайда нет, но конфиг схож с shadowsocks-libev).
 
 - [b]Почему именно Shadowsocks?[/b]
-0. [i]Во время событий в Беларуси успешно работали Shadowsocks с плагинами simple-obfs, v2ray-http, а так же cloak (v1.x.x), чего не скажешь про множество других VPN сервисов (как платных, так и бесплатных).[/i]
+0. [i][b]Во время событий в Беларуси успешно работали Shadowsocks с плагинами simple-obfs, v2ray-http, а так же cloak (v1.x.x), чего не скажешь про множество других VPN сервисов (как платных, так и бесплатных).[/b][/i]
 Поправка: во время блокировок также работал Psiphon, Tachyon VPN и X-VPN.
 1. Быстрее OpenVPN (даже без обфускации и через UDP) и немного быстрее WireGuard.
 2. С обфускацией которая ставится в 5 ПРОСТЫХ ШАГОВ К СВОБОДЕ™ дает за щеку всем.
@@ -43,7 +43,7 @@ OutlineVPN построен активистами Google на базе shadowso
 - [b]Гайды:[/b]
 1. Основной гайд [b]по shadowsocks-go[/b]: https://medium.com/p/beda4352b52f
 2. Обфускаторы https://medium.com/p/1d173b3d5513
-Ещё больше разных гайдов для тех, кому не хватило: https://justpaste.it/80zo5
+3. Ещё больше разных гайдов для тех, кому не хватило: https://justpaste.it/80zo5
 
 - [b]Оптимизации и пердолинг:[/b]
 1. Shadowsocks over Cloudflare: http://telegra.ph/shadowsocks-over-cloudflare-05-17
