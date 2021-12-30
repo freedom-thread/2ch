@@ -1,11 +1,5 @@
 Тред, посвященный методам обхода блокировок, DPI и цензуры в интернете.
-[SPOILER]Шапка в процессе переписывания на человеческий язык.[/SPOILER]
 
-- [b]Немного важной инфы из прошлых тредов:[/b]
-1. [b]shadowsocks-libev[/b] перешел в режим обслуживания, активная разработка прекращена.
-2. Актуальные версии:
-• [b]shadowsocks-go[/b] (гайд ниже)
-• [b]shadowsocks-rust[/b] (официальная версия, гайда нет, но конфиг схож с shadowsocks-libev).
 
 - [b]Почему именно Shadowsocks?[/b]
 0. [i][b]Во время событий в Беларуси успешно работали Shadowsocks с плагинами simple-obfs, v2ray-http, а так же cloak (v1.x.x), чего не скажешь про множество других VPN сервисов (как платных, так и бесплатных).[/b][/i]
@@ -39,6 +33,12 @@ OutlineVPN построен активистами Google на базе shadowso
 1. Исследование блокировок GFW: https://gfw.report/blog/gfw_shadowsocks/
 2. Исследование производительности проксей, VPN и обфускаторов: https://habr.com/ru/post/479146/
 [b]TL;DR:[/b] Shadowsocks > WireGuard > SSH > tunsafe > OutlineVPN > StrongSwan > OpenVPN (UDP) > OpenVPN (TCP) > всё остальное
+
+- [b]Немного важной инфы из прошлых тредов:[/b]
+1. [b]shadowsocks-libev[/b] перешел в режим обслуживания, активная разработка прекращена.
+2. Актуальные версии:
+• [b]shadowsocks-go[/b] (гайд ниже)
+• [b]shadowsocks-rust[/b] (официальная версия, гайда нет, но конфиг схож с shadowsocks-libev).
 
 - [b]Гайды:[/b]
 1. Основной гайд [b]по shadowsocks-go[/b]: https://medium.com/p/beda4352b52f
