@@ -44,7 +44,7 @@ OutlineVPN построен активистами Google на базе shadowso
 1. Основной гайд по [b]shadowsocks-go[/b]: https://medium.com/p/beda4352b52f
 2. Обфускаторы https://medium.com/p/1d173b3d5513
 3. IPv6 туннели https://telegra.ph/Gajd-po-nastrojke-IPv6-tunnelej-v10-12-23
-4. Ещё больше разных гайдов для тех, кому не хватило: https://justpaste.it/80zo5
+4. Ещё больше разных гайдов для тех, кому не хватило: https://github.com/freedom-thread/2ch/blob/main/more-guides.md
 
 - [b]Оптимизации и пердолинг:[/b]
 1. Shadowsocks over Cloudflare: http://telegra.ph/shadowsocks-over-cloudflare-05-17
