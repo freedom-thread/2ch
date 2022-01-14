@@ -1,6 +1,6 @@
 
 
-[ss+v2ray with tls behind nginx over cf](https://pastebin.com/CpKBhNC3) - **Настройка nginx перед cc для параллельной работы вебсайта с v2ray-over-tls-cf с легитимным сертификатом let's encrypt, чтобы не забрали домен**
+[ss+v2ray with tls behind nginx over cf](https://pastebin.com/CpKBhNC3) - Настройка nginx перед cc для параллельной работы вебсайта с v2ray-over-tls-cf с легитимным сертификатом let's encrypt, чтобы не забрали домен
 
 [Установка обфускатора cloak v.2xx](https://medium.com/@f.gzhechko/ss-cloak-v2-8e3ae0c07d9c)
 
