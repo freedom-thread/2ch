@@ -1,10 +1,10 @@
 ## Гайд по быстрой установке shadowsocks+v2ray (Docker)
 
 ### Содержание:
-1. Создание виртуальной машины
-2. Установка shadowsocks
-3. Запуск shadowsocks
-3. Подключение клиентов
+1. [Создание виртуальной машины](docker-ss-v2ray.md#создание-виртуальной-машины)
+2. [Установка shadowsocks](docker-ss-v2ray.md#установка-shadowsocks)
+3. [Запуск shadowsocks](docker-ss-v2ray.md#запуск-shadowsocks)
+3. [Подключение клиентов](docker-ss-v2ray.md#подключение-клиентов)
 
 
 ### Создание виртуальной машины
