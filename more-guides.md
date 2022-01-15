@@ -1,5 +1,11 @@
 
 **БОЛЬШЕ ГАЙДОВ:**
++ [Быстрая установка shadowsocks+v2ray (Docker)](/guides/docker-ss-v2ray.md) - Официальный, предельно простой гайд по установке носков с обфускацией под http
+
++ [shadowsocks-rust-simple](https://bitbucket.org/kek7654/shadowsocks/src/master/shadowsocks-rust-simple/) - Неофициальный, предельно простой гайд по установке носков
+
++ [Shadowsocks Compose](https://gitlab.com/Relers/shadowsocks-compose) - Пердольный гайд с по установке носков с обфускацией, двойным шифрованием, cloudflare, BBR и nginx
+
 + [ss+v2ray with tls behind nginx over cf](https://pastebin.com/CpKBhNC3) - Настройка nginx перед cc для параллельной работы вебсайта с v2ray-over-tls-cf с легитимным сертификатом let's encrypt, чтобы не забрали домен
 
 + [Установка обфускатора cloak v.2xx](https://medium.com/@f.gzhechko/ss-cloak-v2-8e3ae0c07d9c)
