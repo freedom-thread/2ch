@@ -14,10 +14,6 @@
 
 + [Установка v2ray-plugin](https://medium.com/p/b18747d12a4f) - Настройка v2ray в режиме вебсокет+http
 
-+ [Shadowsocks over Cloudflare](http://telegra.ph/shadowsocks-over-cloudflare-05-17) - Пошаговая адаптированная для домохозяек из /s/™ инструкция по настройке ss-over-cf
-
-+ [Пердолинг и оптимизации СС](https://medium.com/p/b8938a61d38/) - tcp-bbr, доступ только через CF, наеб даблпинга
-
 + [nginx-редирект нон-сс трафика на чужой сайт](https://medium.com/@f.gzhechko/nginx-traffic-redirect-dd51f7aacbda) - Перенаправляем не-СС трафик с nginx на чужой работающий сайт (в процессе публикации)
 
 + [ss+v2ray behind nginx over cf](https://pastebin.com/PhZsrnZ6) - Тоже гайд по настройке вебсервера перед ss+v2ray+cf но на 80ом порту в режиме http-websocket (для тех кто не хочет симпл-обфс)
