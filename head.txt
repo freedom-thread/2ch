@@ -51,4 +51,4 @@ P.S.
 Если хочется простого решения, устанавливаемого в два клика мышкой, чтобы ходить на заблокированные сайты, то советую сначала заглянуть в соседний тред:
 >>3093801 /nkvd/
 
-Эта шапка для переката: https://github.com/freedom-thread/2ch/blob/main/head.txt
+Эта шапка для переката: https://github.com/freedom-thread/2ch/blob/next-thread/head.txt
