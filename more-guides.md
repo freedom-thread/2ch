@@ -1,6 +1,5 @@
 
 **БОЛЬШЕ ГАЙДОВ:**
-+ [Быстрая установка shadowsocks+v2ray (Docker)](/guides/docker-ss-v2ray.md) - Официальный, предельно простой гайд по установке носков с обфускацией под http
 
 + [shadowsocks-rust-simple](https://bitbucket.org/kek7654/shadowsocks/src/master/shadowsocks-rust-simple/) - Неофициальный, предельно простой гайд по установке носков
 
