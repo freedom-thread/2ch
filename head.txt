@@ -38,7 +38,7 @@ OutlineVPN построен активистами Google на базе shadowso
 1. [b]shadowsocks-libev[/b] перешел в режим обслуживания, активная разработка прекращена.
 2. Актуальные версии:
 • [b]shadowsocks-go[/b] (гайд ниже)
-• [b]shadowsocks-rust[/b] (официальная версия, гайд ниже. Конфиг схож с shadowsocks-libev).
+• [b]shadowsocks-rust[/b] (гайд ниже, официальная версия).
 
 - [b]Гайды:[/b]
 1. Основной гайд по [b]shadowsocks-go[/b]: https://medium.com/p/beda4352b52f
