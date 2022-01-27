@@ -38,12 +38,13 @@ OutlineVPN построен активистами Google на базе shadowso
 1. [b]shadowsocks-libev[/b] перешел в режим обслуживания, активная разработка прекращена.
 2. Актуальные версии:
 • [b]shadowsocks-go[/b] (гайд ниже)
-• [b]shadowsocks-rust[/b] (официальная версия, гайда нет, но конфиг схож с shadowsocks-libev).
+• [b]shadowsocks-rust[/b] (официальная версия, гайд ниже. Конфиг схож с shadowsocks-libev).
 
 - [b]Гайды:[/b]
 1. Основной гайд по [b]shadowsocks-go[/b]: https://medium.com/p/beda4352b52f
-2. Обфускаторы https://medium.com/p/1d173b3d5513
-3. Ещё больше разных гайдов для тех, кому не хватило: https://github.com/freedom-thread/2ch/blob/main/more-guides.md
+2. Предельно простой гайд по [b]shadowsocks-rust[/b] (Docker): https://github.com/freedom-thread/2ch/blob/main/guides/docker-ss-v2ray.md
+3. Обфускаторы https://medium.com/p/1d173b3d5513
+4. Ещё больше разных гайдов для тех, кому не хватило: https://github.com/freedom-thread/2ch/blob/main/more-guides.md
 
 - [b]Оптимизации и пердолинг:[/b]
 1. Shadowsocks over Cloudflare: http://telegra.ph/shadowsocks-over-cloudflare-05-17
