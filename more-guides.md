@@ -7,6 +7,8 @@
 
 + [ss+v2ray with tls behind nginx over cf](https://pastebin.com/CpKBhNC3) - Настройка nginx перед cc для параллельной работы вебсайта с v2ray-over-tls-cf с легитимным сертификатом let's encrypt, чтобы не забрали домен
 
++ [ss+v2ray behind nginx over cf](https://pastebin.com/PhZsrnZ6) - Тоже гайд по настройке вебсервера перед ss+v2ray+cf но на 80ом порту в режиме http-websocket (для тех кто не хочет симпл-обфс)
+
 + [Установка обфускатора cloak v.2xx](https://medium.com/@f.gzhechko/ss-cloak-v2-8e3ae0c07d9c)
 
 + [ss+obfs](https://justpaste.it/4tjdx) - Простой и понятный гайд по сс+обфс на убунту 18.04
@@ -18,8 +20,6 @@
 + [Пердолинг и оптимизации СС](https://medium.com/p/b8938a61d38/) - tcp-bbr, доступ только через CF, наеб даблпинга
 
 + [nginx-редирект нон-сс трафика на чужой сайт](https://medium.com/@f.gzhechko/nginx-traffic-redirect-dd51f7aacbda) - Перенаправляем не-СС трафик с nginx на чужой работающий сайт (в процессе публикации)
-
-+ [ss+v2ray behind nginx over cf](https://pastebin.com/PhZsrnZ6) - Тоже гайд по настройке вебсервера перед ss+v2ray+cf но на 80ом порту в режиме http-websocket (для тех кто не хочет симпл-обфс)
 
 + [Ручная установка shadowsocks](https://justpaste.it/53cvr) - Просто сс без обфс и прочего - актуально для впс с опенВЗ виртуализацией
 
