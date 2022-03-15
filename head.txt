@@ -28,7 +28,7 @@
 OutlineVPN построен активистами Google на базе shadowsocks-libev и максимально адаптирован для быстрой и простой установки.
 [b]NB![/b] Голый shadowsocks, как и Outline, теперь детектится даже в Wireshark, что в принципе было давно ожидаемо.
 
-- [b]Исследования[/b]
+- [b]Исследования:[/b]
 1. Исследование блокировок GFW: https://gfw.report/blog/gfw_shadowsocks/
 2. Исследование производительности проксей, VPN и обфускаторов: https://habr.com/ru/post/479146/
 [b]TL;DR:[/b] Shadowsocks > WireGuard > SSH > tunsafe > OutlineVPN > StrongSwan > OpenVPN (UDP) > OpenVPN (TCP) > всё остальное
@@ -42,8 +42,9 @@ OutlineVPN построен активистами Google на базе shadowso
 - [b]Гайды:[/b]
 1. Основной гайд по [b]shadowsocks-go[/b]: https://medium.com/p/beda4352b52f
 2. Предельно простой гайд по [b]shadowsocks-rust[/b] (Docker): https://github.com/freedom-thread/2ch/blob/main/guides/docker-ss-v2ray.md
-3. Обфускаторы https://medium.com/p/1d173b3d5513
-4. Ещё больше разных гайдов для тех, кому не хватило: https://github.com/freedom-thread/2ch/blob/main/more-guides.md
+3. Бесплатный сервер shadowsocks на Heroku: https://habr.com/en/post/555768/
+4. Обфускаторы: https://medium.com/p/1d173b3d5513
+5. Ещё больше разных гайдов для тех, кому не хватило: https://github.com/freedom-thread/2ch/blob/main/more-guides.md
 
 P.S.
 В этом треде тебе помогут настроить прокси с шифрованием и обфускацией трафика, получить доступ к тopу и многое другое.
