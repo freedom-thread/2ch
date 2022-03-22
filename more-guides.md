@@ -1,5 +1,6 @@
 
 **БОЛЬШЕ ГАЙДОВ:**
++ [Shadowsocks гайд для неосиляторов](https://pastebin.com/rcTh2vUA) - Максимально детальный гайд по Heroku. Сделано неосилятором для неосиляторов
 
 + [shadowsocks-rust-simple](https://bitbucket.org/kek7654/shadowsocks/src/master/shadowsocks-rust-simple/) - Неофициальный, предельно простой гайд по установке носков
 
