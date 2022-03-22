@@ -11,9 +11,17 @@
 
 
 ### Настройка клиентов Android
++ SagerNet
++ AnXray
 
 ### Настройка клиентов Windows
++ shadowsocks-windows
++ v2ray-plugin
++ xray-plugin
 
 ### Настройка клиентов Linux
+v2rayA
 
 ### Настройка клиентов macOS
++ clashX
++ V2RayXS
