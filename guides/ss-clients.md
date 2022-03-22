@@ -20,7 +20,7 @@
 + xray-plugin
 
 ### Настройка клиентов Linux
-v2rayA
++ v2rayA
 
 ### Настройка клиентов macOS
 + clashX
