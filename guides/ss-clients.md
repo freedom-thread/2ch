@@ -2,10 +2,10 @@
 
 ### Содержание:
 1. [Вступление](ss-clients.md#вступление)
-2. [Настройка клиентов Android](ss-clients.md#)
-3. [Настройка клиентов Windows](ss-clients.md#)
-4. [Настройка клиентов Linux](ss-clients.md#)
-5. [Настройка клиентов macOS](ss-clients.md#)
+2. [Настройка клиентов Android](ss-clients.md#настройка-клиентов-android)
+3. [Настройка клиентов Windows](ss-clients.md#настройка-клиентов-windows)
+4. [Настройка клиентов Linux](ss-clients.md#настройка-клиентов-linux)
+5. [Настройка клиентов macOS](ss-clients.md#настройка-клиентов-macos)
 
 ### Вступление
 
