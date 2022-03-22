@@ -1,5 +1,6 @@
 
 **БОЛЬШЕ ГАЙДОВ:**
++ [Shadowsocks гайд для неосиляторов](https://pastebin.com/rcTh2vUA) - Максимально детальный гайд по Heroku. Сделано неосилятором для неосиляторов
 
 + [shadowsocks-rust-simple](https://bitbucket.org/kek7654/shadowsocks/src/master/shadowsocks-rust-simple/) - Неофициальный, предельно простой гайд по установке носков
 
@@ -31,6 +32,7 @@
 
 
 **ЕЩЕ БОЛЬШЕ ПЕРДОЛИНГОВ И ЛЕГАСИ-ГОВНА:**
++ [Всевозможный пердолинг Xray](https://pastebin.com/vdyeVb68) - Xray по vless и vmess через клаудфлер, а так же по vless в йоба XTLS режиме чтобы было еще быстрее
 
 + [Пердолинг сетевого стека и tcp bbr](https://justpaste.it/3mm70) - подходит для kvm\xen\vmware, уже есть в гайде выше
 
