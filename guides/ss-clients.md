@@ -50,4 +50,4 @@
 + [FoxyProxy](https://getfoxyproxy.org/downloads/#proxypanel)
 + [Антизапрет](https://antizapret.prostovpn.org/)
   
-![Архитектура носков](../img/ss-clients/diagram.png "Архитектура обхода блокировок через shadowsocks")
+<img src="../img/ss-clients/diagram.png" alt="Архитектура обхода блокировок через shadowsocks"/>
