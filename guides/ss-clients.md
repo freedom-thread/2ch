@@ -35,9 +35,11 @@
 Для shadowsocks с обфускацией через Xray рекомендуется [AnXray](https://f-droid.org/packages/io.nekohasekai.anXray/). Настройка производится по аналогии с SagerNet
 
 ### Настройка клиентов Windows
-+ [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases/latest)
+1. Первым делом следует скачать [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases/latest) и распаковать в отдельную папку
+2. Затем скачать один из плагинов ниже и положить в папку, в которую ранее был установлен shadowsocks:
 + [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin/releases/latest)
 + [xray-plugin](https://github.com/teddysun/xray-plugin/releases/latest)
+3. Переименовать исполняемый файл плагина в v2ray-plugin.exe или xray-plugin.exe соотвественно
 
 ### Настройка клиентов Linux
 + [v2rayA](https://v2raya.org/en/docs/prologue/installation/)
