@@ -36,10 +36,18 @@
 
 ### Настройка клиентов Windows
 1. Первым делом следует скачать [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases/latest) и распаковать в отдельную папку
-2. Затем скачать один из плагинов ниже и положить в папку, в которую ранее был установлен shadowsocks:
+2. Затем скачать один из плагинов ниже (версию с суффиксом windows-amd64) и положить в папку, в которую ранее был установлен shadowsocks:
 + [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin/releases/latest)
 + [xray-plugin](https://github.com/teddysun/xray-plugin/releases/latest)
 3. Переименовать исполняемый файл плагина в v2ray-plugin.exe или xray-plugin.exe соотвественно
+4. Теперь вводим все данные сервера
+5. В графе "Плагин" пишем v2ray-plugin или xray-plugin в зависимости от того какой плагин установлен на сервере
+6. Поле опции плагина можно оставить пустым
+7. Так как shadowsocks-windows не поддерживает прозрачный прокси (режим VPN), переходим к разделу [настройка браузеров](ss-clients.md#настройка-браузеров)
+
+На скриншоте пример корректной настройки
+
+<img src="../img/ss-clients/shadowsocks-windows.png" alt="Скриншот shadowsocks-windows" width="500"/>
 
 ### Настройка клиентов Linux
 + [v2rayA](https://v2raya.org/en/docs/prologue/installation/)
