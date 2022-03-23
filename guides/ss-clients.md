@@ -11,24 +11,26 @@
 ### Вступление
 
 Данный гайд нацелен на помощь в установке и настройке клиентов shadowsocks как без обфускации, так и с обфускацией трафика при помощи плагинов V2ray или Xray. 
-![Архитектура носков](noski.png "Архитектура обхода блокировок через shadowsocks")
+
 
 ### Настройка клиентов Android
-+ SagerNet
-+ AnXray
++ [SagerNet](https://f-droid.org/packages/io.nekohasekai.sagernet/)
++ [AnXray](https://f-droid.org/packages/io.nekohasekai.anXray/)
 
 ### Настройка клиентов Windows
-+ shadowsocks-windows
-+ v2ray-plugin
-+ xray-plugin
++ [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases/latest)
++ [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin/releases/latest)
++ [xray-plugin](https://github.com/teddysun/xray-plugin/releases/latest)
 
 ### Настройка клиентов Linux
-+ v2rayA
++ [v2rayA](https://v2raya.org/en/docs/prologue/installation/)
 
 ### Настройка клиентов macOS
-+ clashX
-+ V2RayXS
++ [clashX](https://github.com/yichengchen/clashX/releases/latest)
++ [V2RayXS](https://github.com/tzmax/V2RayXS/releases/latest)
 
 ### Настройка браузеров
-+ FoxyProxy
-+ Антизапрет
++ [FoxyProxy](https://getfoxyproxy.org/downloads/#proxypanel)
++ [Антизапрет](https://antizapret.prostovpn.org/)
+  
+![Архитектура носков](../img/ss-clients-diagram.png "Архитектура обхода блокировок через shadowsocks")
