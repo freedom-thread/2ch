@@ -50,7 +50,11 @@
 <img src="../img/ss-clients/shadowsocks-windows.png" alt="Скриншот shadowsocks-windows" width="500"/>
 
 ### Настройка клиентов Linux
-+ [v2rayA](https://v2raya.org/en/docs/prologue/installation/)
+1. Скачиваем [v2rayA](https://v2raya.org/en/docs/prologue/installation/) для своего дистрибутива
+2. Далее следуем инструкциям по установке на сайте
+3. После успешной установки открываем в браузере страницу http://localhost:2017
+4. Создаём логин и пароль
+5. После успешного входа 
 
 ### Настройка клиентов macOS
 + [clashX](https://github.com/yichengchen/clashX/releases/latest)
