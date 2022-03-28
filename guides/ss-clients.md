@@ -56,9 +56,11 @@
 4. Создаём логин и пароль
 5. После успешного входа 
 
+<!--
 ### Настройка клиентов macOS
 + [clashX](https://github.com/yichengchen/clashX/releases/latest)
 + [V2RayXS](https://github.com/tzmax/V2RayXS/releases/latest)
+-->
 
 ### Настройка браузеров
 + [FoxyProxy](https://getfoxyproxy.org/downloads/#proxypanel)
