@@ -30,7 +30,7 @@
     
 На скриншоте пример корректной настройки
 
-<img src="../img/ss-clients/SagerNet.png" title="Пример правильной конфигурации shadowsocks-windows" alt="Скриншот SagerNet" width="300"/>
+<img src="../img/ss-clients/SagerNet.png" title="Пример правильной конфигурации SagerNet" alt="Скриншот SagerNet" width="300"/>
 
 Для shadowsocks с обфускацией через Xray рекомендуется [AnXray](https://f-droid.org/packages/io.nekohasekai.anXray/). Настройка производится по аналогии с SagerNet
 
