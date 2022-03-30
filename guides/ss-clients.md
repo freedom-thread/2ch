@@ -66,7 +66,12 @@
 -->
 
 ### Настройка браузеров
-+ [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
-+ [Антизапрет](https://antizapret.prostovpn.org/)
-  
-<img src="../img/ss-clients/diagram.png" alt="Архитектура обхода блокировок через shadowsocks"/>
+1. Качаем расширение [Антизапрет](https://antizapret.prostovpn.org/) для своего браузера
+2. Если используется Firefox, нужно разрешить расширению запуск в приватных окнах
+3. После этого настраиваем антизапрет как на скриншоте. Порт может отличаться (например, на линуксе порт равен 20170)
+4. На вкладке PAC-скрипт следует выбрать Антицензорити
+5. На данном этапе всё должно работать. При желании расширению антизапрета можно указать отдельные сайты для проксированния
+
+<img src="../img/ss-clients/antizapret.png" alt="Пример правильной конфигурации антизапрета" width="400"/>
+
+Если нужно проксировать все сайты, удобнее всего это делать через [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif). Расширение позволяет включать или выключать прокси всего за два клика  
