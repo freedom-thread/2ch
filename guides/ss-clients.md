@@ -30,7 +30,7 @@
     
 На скриншоте пример корректной настройки
 
-<img src="../img/ss-clients/SagerNet.png" alt="Скриншот SagerNet" width="300"/>
+<img src="../img/ss-clients/SagerNet.png" title="Пример правильной конфигурации shadowsocks-windows" alt="Скриншот SagerNet" width="300"/>
 
 Для shadowsocks с обфускацией через Xray рекомендуется [AnXray](https://f-droid.org/packages/io.nekohasekai.anXray/). Настройка производится по аналогии с SagerNet
 
@@ -47,7 +47,7 @@
 
 На скриншоте пример корректной настройки
 
-<img src="../img/ss-clients/shadowsocks-windows.png" alt="Скриншот shadowsocks-windows" width="500"/>
+<img src="../img/ss-clients/shadowsocks-windows.png" title="Пример правильной конфигурации shadowsocks-windows" alt="Скриншот shadowsocks-windows" width="500"/>
 
 ### Настройка клиентов Linux
 1. Скачиваем [v2rayA](https://v2raya.org/en/docs/prologue/installation/) для своего дистрибутива
@@ -59,6 +59,8 @@
 7. Далее следует проверить подключение к серверу. Для этого ставим галочку напротив подключения и нажимаем на кнопку HTTP
 8. Если всё ок, то переходим к разделу [настройка браузеров](ss-clients.md#настройка-браузеров)
 
+
+<img src="../img/ss-clients/v2raya.png" title="Пример правильной конфигурации v2rayA" alt="Скриншот v2rayA" width="400"/>
 <!--
 ### Настройка клиентов macOS
 + [clashX](https://github.com/yichengchen/clashX/releases/latest)
@@ -72,6 +74,6 @@
 4. На вкладке PAC-скрипт следует выбрать Антицензорити
 5. На данном этапе всё должно работать. При желании расширению антизапрета можно указать отдельные сайты для проксированния
 
-<img src="../img/ss-clients/antizapret.png" alt="Пример правильной конфигурации антизапрета" width="400"/>
+<img src="../img/ss-clients/antizapret.png" title="Пример правильной конфигурации антизапрета" alt="Скриншот антизапрета" width="400"/>
 
 Если нужно проксировать все сайты, удобнее всего это делать через [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif). Расширение позволяет включать или выключать прокси всего за два клика  
