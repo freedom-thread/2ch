@@ -66,7 +66,7 @@
 -->
 
 ### Настройка браузеров
-+ [FoxyProxy](https://getfoxyproxy.org/downloads/#proxypanel)
++ [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
 + [Антизапрет](https://antizapret.prostovpn.org/)
   
 <img src="../img/ss-clients/diagram.png" alt="Архитектура обхода блокировок через shadowsocks"/>
