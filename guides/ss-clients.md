@@ -28,7 +28,7 @@
 
 <img src="../img/ss-clients/SagerNet.png" title="Пример правильной конфигурации SagerNet" alt="Скриншот SagerNet" width="300"/>
 
-Shadowsocks с обфускацией через Xray настраивается аналогичным образом. Требуется предварительная установка [xray-plugin](https://github.com/teddysun/xray-plugin/releases/latest).
+Shadowsocks с обфускацией через Xray настраивается аналогичным образом. Требуется предварительная установка [xray-plugin](https://github.com/teddysun/xray-plugin-android/releases/latest)
 
 ### Настройка клиентов Windows
 1. Первым делом следует скачать [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases/latest) и распаковать в отдельную папку
