@@ -32,7 +32,7 @@ Shadowsocks с обфускацией через Xray настраивается
 
 ### Настройка клиентов Windows
 1. Первым делом следует скачать [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases/latest) и распаковать в отдельную папку
-2. Затем скачать один из плагинов ниже (версию с суффиксом windows-amd64) и положить в папку, в которую ранее был установлен shadowsocks:
+2. Затем скачать один из плагинов ниже (версию с суффиксом windows-amd64) и распаковать .exe файл в папку, в которую ранее был установлен shadowsocks:
 + [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin/releases/latest)
 + [xray-plugin](https://github.com/teddysun/xray-plugin/releases/latest)
 3. Переименовать исполняемый файл плагина в v2ray-plugin.exe или xray-plugin.exe соотвественно
